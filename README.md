@@ -6,8 +6,8 @@ Itch.io dungeon tileset
 
 # PNJ assets
 [/assets/pnjs](/assets/pnjs)
-Source : https://e1.pngegg.com/pngimages/474/311/png-clipart-re-side-character-sprites-v1-assorted-character-sprites-illustration-thumbnail.png
-Artist : https://www.deviantart.com/doubleleggy/
+Source : [](https://e1.pngegg.com/pngimages/474/311/png-clipart-re-side-character-sprites-v1-assorted-character-sprites-illustration-thumbnail.png)
+Artist : [DoubleLeggy](https://www.deviantart.com/doubleleggy/)
 
 # Dialogs assets
 [/assets/dialogs](/assets/dialogs)
